@@ -6,11 +6,9 @@ This is a **fully functional calculator prototype** created using **Axure RP** a
 ### Updated Features
 - 🔄 **Previous Practical Updates**: 
   - Interactive **number input** is now fully functional.
-  - **Basic arithmetic operations** (addition, subtraction, multiplication, and division) are working correctly.
   - **Clear (C) button** functionality has been implemented to reset the calculator screen.
-  - **Display updates in real-time** when numbers or operations are input.
+  - **Display updates in real-time** when numbers are input.
   
-- ✅ **Basic Arithmetic**: Addition (+), Subtraction (-), Multiplication (×), and Division (÷)
 
 - ✅ **Clear Function**: Reset the calculator with the `C` button
 - ✅ **Real-time Display**: Numbers and operations are shown on the screen
@@ -26,7 +24,7 @@ This is a **fully functional calculator prototype** created using **Axure RP** a
 
 🛠 **Future Improvements**
 
--  Add support for scientific calculations
+-  Add support for basic arithmetic calculations
 
 -  Implement keyboard input support
 
